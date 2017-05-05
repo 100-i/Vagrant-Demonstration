@@ -8,6 +8,15 @@ A simple demonstration of [Vagrant](https://vagrant.com).
 The following instructions are meant to be used at your computer's command
 prompt. Each command is typed at a command line.
 
+## Clone the Project
+
+Use Git to acquire a local copy of this project in order to 'boot' the Vagrant virtual machine.
+
+~~~~~~shell
+git clone https://github.com/100i/Vagrant-Demonstration.git
+~~~~~~
+
+
 ## 1. Start
 
 Start the virtual machine with Vagrant.
